@@ -1,7 +1,8 @@
-package com.example.rps
+package com.example.rps.service.impl
 
 import com.example.rps.enums.Action
 import com.example.rps.enums.Result
+import com.example.rps.service.GameService
 import org.springframework.stereotype.Service
 import kotlin.random.Random
 

@@ -1,5 +1,6 @@
 package com.example.rps
 
+import com.example.rps.service.impl.GameServiceImpl
 import kotlin.test.Test
 import kotlin.test.assertTrue
 
