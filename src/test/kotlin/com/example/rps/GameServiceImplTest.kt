@@ -3,9 +3,9 @@ package com.example.rps
 import kotlin.test.Test
 import kotlin.test.assertTrue
 
-class GameServiceTest {
+class GameServiceImplTest {
 
-    private val gameService = GameService()
+    private val gameService = GameServiceImpl()
 
     @Test
     fun `test playGame output format`() {
