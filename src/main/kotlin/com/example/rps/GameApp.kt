@@ -1,4 +1,4 @@
-package com.example.rps.enums
+package com.example.rps
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
